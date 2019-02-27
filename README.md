@@ -13,3 +13,5 @@ cd crypto-bonds/
 docker-compose up
 
 It will take about 20-30 minutes to compile the first time, but after the first time it will take less than a minute.
+
+This project was adapted from https://github.com/delventhalz/pirate-talk
