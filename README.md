@@ -1,5 +1,7 @@
 ![](https://i.imgur.com/QFZWlB8.png)
 
+### See the presentation [here](https://docs.google.com/presentation/d/1UywBqI5BPFJGwuiuyk_dkiVG5Gp_MBcy3H9_N4azTIk/edit?usp=sharing)
+
 ## Backend Infrastructure
 
 CryptoBonds is a blockchain application that was built using Hyperledger Sawtooth. The goal of the project is to make a stable coin with its value linked to real life company bonds. CryptoBonds acts as a clearing firm and monitors transactions between the banks and the traders. Traders are able to exchange cryptobonds and other cryptocurrencies with other users. 
