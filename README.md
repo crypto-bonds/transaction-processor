@@ -10,10 +10,12 @@ CryptoBonds is a blockchain application that was built using Hyperledger Sawtoot
 
 All you need to run the backend of the code is docker. Once you've downloaded https://www.docker.com/products/docker-engine you need to enter these commands
 
+```
 git clone https://github.com/crypto-bonds/crypto-bonds
 cd crypto-bonds/
 docker-compose up
+```
 
-It will take about 20-30 minutes to compile the first time, but after the first time it will take less than a minute.
+It will take about 20-30 minutes to compile the first time, but after the first time it will take less than a minute. Make sure you save the docker container.
 
 This project was adapted from https://github.com/delventhalz/pirate-talk
